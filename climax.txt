@@ -1,0 +1,4 @@
+hero down
+villain up
+next villain will dead
+after hero will win
